@@ -1,0 +1,12 @@
+Flask
+albumentations
+torchvision
+tqdm
+pandas
+efficientnet-pytorch
+scikit-learn
+pillow
+torch 
+scipy
+matplotlib
+numpy
