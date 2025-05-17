@@ -7,7 +7,7 @@ from pathlib import Path
 
 # Page configuration
 st.set_page_config(
-    page_title="Deepfake Detector",
+    page_title="Deepfake Detect",
     page_icon="🕵️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -127,7 +127,7 @@ def loading_animation():
     progress_bar.empty()
 
 # Main app
-st.title("🕵️ Deepfake Detection System")
+st.title("🕵️ TruthShield")
 st.markdown("Upload an image or video to analyze for potential deepfake content")
 
 # Create columns
